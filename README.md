@@ -1,5 +1,7 @@
 # membership-section
 
+A sample form in Vue.js with a card picker and custom dropdown for a coding exercise.
+
 ## Project setup
 ```
 npm install
